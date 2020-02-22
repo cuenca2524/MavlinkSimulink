@@ -1,4 +1,4 @@
-# MavlinkSimulink
+# Mavlink Simulink
 Blocks for Serial communications development in Simulink using Mavlink protocol. (Compatible with Embedded code generation) 
 
 This set of blocks allows you to create, encode and decode any type of Mavlink package for serial communication using the Simulink enviroment. 
